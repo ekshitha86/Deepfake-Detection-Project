@@ -36,16 +36,3 @@ We used the **Celeb-DF (v2) dataset**, which contains real and deepfake videos o
 
 ---
 
-## 📁 Project Structure
-Deepfake-Detection-Project/
-│
-├── preprocessing/
-│ ├── preprocess_faces.py
-│ └── split_dataset.py
-│
-├── models/ # (To be implemented)
-├── backend/ # (To be implemented)
-├── frontend/ # (To be implemented)
-│
-├── README.md
-├── .gitignore
